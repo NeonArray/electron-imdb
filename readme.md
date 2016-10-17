@@ -1,6 +1,6 @@
-# electron-weather
+# electron-imbd
 
-> My awe-inspiring app
+> A simple electron app that fetches a movie from IMDB.
 
 
 ## Dev
